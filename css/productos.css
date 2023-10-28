@@ -1,0 +1,12 @@
+* {
+    font-family: var(--fuente1);
+}
+.nav {
+    background-color: var(--color5);
+}
+
+.main {
+    background-image: url(img/shaian-ramesht-exSEmuA7R7k-unsplash\ \(1\).jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
