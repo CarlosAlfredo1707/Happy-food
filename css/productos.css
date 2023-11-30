@@ -1,0 +1,13 @@
+* {
+    font-family: var(--fuente1);
+}
+.nav {
+    background-color: var(--color5);
+}
+
+.main {
+    background-image: url(img/Background.png);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: bottom;
+}
